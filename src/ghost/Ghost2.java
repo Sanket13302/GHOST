@@ -28,6 +28,10 @@ public class Ghost2 {
     {
     quantity=newQuantity;    
     }
+    void printChanges()
+    {
+    System.out.println("Product: "+name+",Price: "+price+", Quantity: "+quantity);    
+    }
     
      public static void main(String[] args)
     {
