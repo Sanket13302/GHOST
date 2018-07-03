@@ -32,10 +32,11 @@ public class Ghost2 {
     {
     System.out.println("Product: "+name+",Price: "+price+", Quantity: "+quantity);    
     }
-    
-     public static void main(String[] args)
+
+    public static void main(String[] args)
     {
-        
+        Ghost2 name = new Ghost2();
+        name.printChanges();
     }
     
 }
