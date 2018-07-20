@@ -12,7 +12,7 @@ package ghost;
 
 public class Ghost2 {
     
-    String name="LED MONITOR";
+    String name="LED Monitor";
     double price=2000000;
     int quantity =10;
     
